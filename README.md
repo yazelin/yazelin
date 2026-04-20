@@ -35,5 +35,4 @@
 
 - ✉️ [yaze.lin.j303@gmail.com](mailto:yaze.lin.j303@gmail.com)
 - 🎥 [YouTube](https://www.youtube.com/@yazelin)
-
-
+- 📘 [Facebook](https://www.facebook.com/yaze.lin.gm)
