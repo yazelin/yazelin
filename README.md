@@ -16,6 +16,7 @@
 
 | 專案 | 說明 |
 |------|------|
+| [AgentPulse](https://github.com/yazelin/AgentPulse) | 📡 跨平台 AI CLI session 監控（Tauri v2，支援 Claude / Gemini / Copilot / Codex） |
 | [ChingTech OS](https://github.com/yazelin/ching-tech-os) | 🖥️ 桌面風格 Web 應用，整合 AI / 知識庫 / NAS / Terminal |
 | [Jaba 呷爸](https://github.com/yazelin/jaba-ai) | 🍱 AI 午餐點餐 LINE Bot，自然語言訂便當 |
 | [catime](https://github.com/yazelin/catime) | 🐱 每小時 AI 生成貓咪圖片（GitHub Actions + Gemini） |
