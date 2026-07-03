@@ -8,6 +8,10 @@ I build practical AI-powered software across industrial automation, agent toolin
 
 工業自動化系統整合 10+ 年，現任 [擎添工業](https://www.ching-tech.com)軟體工程師。
 
+My stance: AI is no longer an assistant — it is the primary tool, as fundamental as the computer. I run my whole workflow on AI coding agents (Claude Code / Codex), keeping 30+ active projects moving as a one-person team.
+
+我的立場：AI 已經不是輔助，而是主力 — 就像電腦一樣，是所有人的基本工具。我以 AI 編碼代理驅動整個開發流程（開規格、下發包、做驗收），一個人同時維護 30+ 個活躍專案。
+
 ## What I Do
 
 **Industrial Automation / 工業自動化**  
@@ -33,6 +37,16 @@ A personal AI desktop companion built with Tauri 2, Rust, and React.
 
 A desktop-style web workspace integrating AI, knowledge base, NAS, terminal, and internal workflows.  
 桌面風格 Web 應用，整合 AI、知識庫、NAS、Terminal 與內部工作流。
+
+### [iPAS AI Quiz](https://github.com/yazelin/ipas-ai-quiz)
+
+Online mock exams for the iPAS AI Application Planner cert: 611 past questions, pure front-end with Cloudflare sync. [Try it](https://yazelin.github.io/ipas-ai-quiz/)  
+iPAS AI 應用規劃師線上模擬考：611 題歷屆考古題，純前端 + Cloudflare 同步。
+
+### [Battlefield Editor](https://github.com/yazelin/battlefield-editor)
+
+A data-driven single-file 3D battlefield engine — each historical battle is a package (six included). [Try it](https://yazelin.github.io/battlefield-editor/)  
+AI 戰場編輯器：資料驅動的單檔 3D 戰場引擎，每場戰役是一份 package（內建六場歷史戰役）。
 
 ### [Jaba 呷爸](https://github.com/yazelin/jaba-ai)
 
@@ -72,6 +86,26 @@ Hourly AI-generated cat images powered by GitHub Actions and Gemini.
   Lore, quests, artifacts, and onboarding rituals for AI spirit companions.  
   AI 精靈世界觀、任務、魔道具與 onboarding 儀式。
 
+## Games & 3D / 遊戲與 3D
+
+All playable in the browser. 全部可直接在瀏覽器體驗。
+
+- [Roll Formosa 滾・福爾摩沙](https://yazelin.github.io/roll-formosa/)  
+  A Taiwan-flavored Katamari game — roll from a pushpin to Taipei 101.  
+  台灣風味的滾物成球遊戲，從圖釘滾到台北 101。
+
+- [AI Chant Magic 真.AI.咏唱魔法](https://yazelin.github.io/ai-chant-magic/)  
+  Shout spell names into the mic to cast in real time (Phaser + Web Speech).  
+  對麥克風喊出法術名稱即時施法的語音生存遊戲。
+
+- [K-Rider K 線騎手](https://yazelin.github.io/k-rider/)  
+  Ride a motorcycle over real stock-price candlesticks.  
+  騎機車衝真實股價 K 線的網頁小遊戲。
+
+- [Red Cliffs 3D 赤壁之戰](https://yazelin.github.io/red-cliffs-3d/)  
+  The Battle of Red Cliffs (208 AD) recreated in a single HTML file with Three.js.  
+  單一 HTML + Three.js 的赤壁之戰全 3D 電影式重現。
+
 ## AI Tooling & Experiments
 
 - [codex-image-service](https://github.com/yazelin/codex-image-service)  
@@ -110,9 +144,9 @@ Hourly AI-generated cat images powered by GitHub Actions and Gemini.
 
 ## Blog
 
-170+ technical notes on industrial automation, AI development, system integration, agent workflows, and product experiments.
+190+ technical notes on industrial automation, AI development, system integration, agent workflows, and product experiments.
 
-170+ 篇技術筆記，涵蓋工業自動化、AI 開發、系統整合、agent workflow 與產品實驗。
+190+ 篇技術筆記，涵蓋工業自動化、AI 開發、系統整合、agent workflow 與產品實驗。
 
 Read here: [yazelin.github.io](https://yazelin.github.io)
 
