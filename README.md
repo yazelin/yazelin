@@ -12,6 +12,10 @@ My stance: AI is no longer an assistant — it is the primary tool, as fundament
 
 我的立場：AI 已經不是輔助，而是主力 — 就像電腦一樣，是所有人的基本工具。我以 AI 編碼代理驅動整個開發流程（開規格、下發包、做驗收），一個人同時維護 30+ 個活躍專案。
 
+All my public web tools are free, open-source, and registration-free — no ads, no trackers.
+
+我做的公開小工具一律免費、開源、免註冊，沒有廣告、沒有追蹤碼。
+
 ## What I Do
 
 **Industrial Automation / 工業自動化**  
@@ -48,43 +52,18 @@ iPAS AI 應用規劃師線上模擬考：611 題歷屆考古題，純前端 + Cl
 A data-driven single-file 3D battlefield engine — each historical battle is a package (six included). [Try it](https://yazelin.github.io/battlefield-editor/)  
 AI 戰場編輯器：資料驅動的單檔 3D 戰場引擎，每場戰役是一份 package（內建六場歷史戰役）。
 
+### [LINE 對話製造機](https://github.com/yazelin/line-chat-maker)
+
+An offline-capable PWA that renders LINE-style chat screenshots from a script, for creators and educators. [Try it](https://yazelin.github.io/line-chat-maker/)  
+離線可用的 LINE 風格對話截圖產生器，寫腳本直接出圖，給創作者與教學示意用。
+
 ### [Jaba 呷爸](https://github.com/yazelin/jaba-ai)
 
 An AI-powered LINE ordering bot with natural-language orders, a live dashboard, and admin tools.  
 AI 午餐點餐 LINE Bot，可用自然語言訂便當，搭配即時看板與管理後台。
 
-### [AgentPulse](https://github.com/yazelin/AgentPulse)
-
-A cross-platform monitor for AI CLI sessions across Claude, Gemini, Copilot, and Codex.  
-跨平台 AI CLI session 監控，支援 Claude / Gemini / Copilot / Codex。
-
-### [LINE Sticker Studio](https://github.com/yazelin/line-sticker-studio)
-
-Upload one image and generate an 8-sticker ZIP ready for LINE Creators Market.  
-上傳一張圖，產生 8 張可上架 LINE Creators Market 的貼圖 ZIP。
-
-### [catime](https://github.com/yazelin/catime)
-
-Hourly AI-generated cat images powered by GitHub Actions and Gemini.  
-每小時自動生成一張 AI 貓咪圖片，GitHub Actions + Gemini 驅動。
-
-## Mori Universe
-
-- [Mori Sprite Studio](https://github.com/yazelin/mori-sprite-studio)  
-  Web tool for building `.moripack.zip` character packs for Mori Desktop.  
-  製作 `.moripack.zip` 角色包的 Web 工具，給 Mori Desktop 使用。
-
-- [mori-ear](https://github.com/yazelin/mori-ear)  
-  Mori's ear: a Whisper / ASR voice-input module.  
-  Mori 的耳朵，Whisper / ASR 語音輸入模組。
-
-- [hey-mori](https://github.com/yazelin/hey-mori)  
-  "Hey Mori" wake-word model with openWakeWord ONNX and verifier.  
-  「Hey Mori」喚醒詞模型，openWakeWord ONNX + verifier。
-
-- [World Tree](https://github.com/yazelin/world-tree)  
-  Lore, quests, artifacts, and onboarding rituals for AI spirit companions.  
-  AI 精靈世界觀、任務、魔道具與 onboarding 儀式。
+More on the portfolio wall: [yazelin.github.io](https://yazelin.github.io)  
+更多作品在部落格作品牆：[yazelin.github.io](https://yazelin.github.io)
 
 ## Games & 3D / 遊戲與 3D
 
@@ -106,7 +85,57 @@ All playable in the browser. 全部可直接在瀏覽器體驗。
   The Battle of Red Cliffs (208 AD) recreated in a single HTML file with Three.js.  
   單一 HTML + Three.js 的赤壁之戰全 3D 電影式重現。
 
+## Small Tools / 小工具
+
+- [AI 願望池](https://github.com/yazelin/wish-pool) — a public wish pool where AI agents pick up and fulfill wishes.  
+  公開許願池，AI agent 撿願望、實作、回報。
+
+- [LINE Sticker Studio](https://github.com/yazelin/line-sticker-studio) — upload one image, get an 8-sticker ZIP for LINE Creators Market.  
+  上傳一張圖，產生 8 張可上架 LINE Creators Market 的貼圖 ZIP。
+
+- [台語辭典](https://github.com/yazelin/mandarin-taigi) / [客語辭典](https://github.com/yazelin/mandarin-hakka) / [台語新聞朗讀](https://github.com/yazelin/taigi-news-reader)  
+  Taiwanese and Hakka learning tools with dictionaries and read-aloud news.  
+  台語、客語學習站：辭典查詢與新聞朗讀。
+
+- [AI 生圖字體風格庫](https://github.com/yazelin/ai-font-styles) — a daily-growing library of AI-generated typography styles.  
+  每日自動擴充的 AI 生圖字體風格庫。
+
+- [行銷工具箱](https://github.com/yazelin/marketing-toolbox) — free, no-signup marketing utilities, all client-side.  
+  免費、免註冊的行銷小工具集，全部前端執行。
+
+- [rushcut](https://github.com/yazelin/rushcut) — turn raw footage into a YouTube-ready upload package from the CLI.  
+  毛片一鍵變 YouTube 上架包的 CLI。
+
+- [Emoji Slot Machine](https://github.com/yazelin/emoji-slot-machine) — turns 3x3 emoji or AI expression grids into shareable slot-machine videos.  
+  3x3 emoji / AI 表情圖轉成可分享的拉霸循環影片。
+
+## Mori Universe
+
+- [Mori Sprite Studio](https://github.com/yazelin/mori-sprite-studio)  
+  Web tool for building `.moripack.zip` character packs for Mori Desktop.  
+  製作 `.moripack.zip` 角色包的 Web 工具，給 Mori Desktop 使用。
+
+- [mori-ear](https://github.com/yazelin/mori-ear)  
+  Mori's ear: a Whisper / ASR voice-input module.  
+  Mori 的耳朵，Whisper / ASR 語音輸入模組。
+
+- [hey-mori](https://github.com/yazelin/hey-mori)  
+  "Hey Mori" wake-word model with openWakeWord ONNX and verifier.  
+  「Hey Mori」喚醒詞模型，openWakeWord ONNX + verifier。
+
+- [World Tree](https://github.com/yazelin/world-tree)  
+  Lore, quests, artifacts, and onboarding rituals for AI spirit companions.  
+  AI 精靈世界觀、任務、魔道具與 onboarding 儀式。
+
+- [AgentPulse](https://github.com/yazelin/AgentPulse)  
+  A cross-platform monitor for AI CLI sessions across Claude, Gemini, Copilot, and Codex.  
+  跨平台 AI CLI session 監控，支援 Claude / Gemini / Copilot / Codex。
+
 ## AI Tooling & Experiments
+
+- [cad-agent](https://github.com/yazelin/cad-agent)  
+  Describe a part in natural language and get a parametric 3D model.  
+  用自然語言描述零件，產出參數化 3D 模型。
 
 - [codex-image-service](https://github.com/yazelin/codex-image-service)  
   Personal homelab FastAPI image service around a Codex CLI image workflow.  
@@ -128,30 +157,17 @@ All playable in the browser. 全部可直接在瀏覽器體驗。
   CUPS printer MCP server published on PyPI.  
   CUPS 列印 MCP Server，已發佈到 PyPI。
 
-## Web & Community Projects
-
-- [FishTool.tw](https://github.com/yazelin/fishtool-tw)  
-  Rebuilt a legacy IIS / Classic ASP frameset shop into a modern Astro v5 site.  
-  將舊式 IIS / Classic ASP frameset 釣具網站重建為 Astro v5 靜態/SSR 站。
-
-- [AI Tarot Companion](https://github.com/yazelin/ai-tarot-companion)  
-  AI tarot companion for older adults, designed around large text, voice, and offline use.  
-  給社區長者使用的 AI 塔羅心靈陪伴站，重視大字體、語音與離線可用。
-
-- [Emoji Slot Machine](https://github.com/yazelin/emoji-slot-machine)  
-  Turns 3x3 emoji or AI expression grids into shareable slot-machine videos.  
-  3x3 emoji / AI 表情圖轉成可分享的拉霸循環影片。
-
 ## Blog
 
-190+ technical notes on industrial automation, AI development, system integration, agent workflows, and product experiments.
+200+ technical notes on industrial automation, AI development, system integration, agent workflows, and product experiments. Email subscription available on the site.
 
-190+ 篇技術筆記，涵蓋工業自動化、AI 開發、系統整合、agent workflow 與產品實驗。
+200+ 篇技術筆記，涵蓋工業自動化、AI 開發、系統整合、agent workflow 與產品實驗。站上可訂閱電子報。
 
 Read here: [yazelin.github.io](https://yazelin.github.io)
 
-## Contact
+## Contact & Support
 
 - Email: [yaze.lin.j303@gmail.com](mailto:yaze.lin.j303@gmail.com)
 - YouTube: [@yazelin](https://www.youtube.com/@yazelin)
 - Facebook: [yaze.lin.gm](https://www.facebook.com/yaze.lin.gm)
+- Buy Me a Coffee: [buymeacoffee.com/yazelin](https://buymeacoffee.com/yazelin)
