@@ -103,9 +103,6 @@ All playable in the browser. 全部可直接在瀏覽器體驗。
 - [行銷工具箱](https://github.com/yazelin/marketing-toolbox) — free, no-signup marketing utilities, all client-side.  
   免費、免註冊的行銷小工具集，全部前端執行。
 
-- [rushcut](https://github.com/yazelin/rushcut) — turn raw footage into a YouTube-ready upload package from the CLI.  
-  毛片一鍵變 YouTube 上架包的 CLI。
-
 - [Emoji Slot Machine](https://github.com/yazelin/emoji-slot-machine) — turns 3x3 emoji or AI expression grids into shareable slot-machine videos.  
   3x3 emoji / AI 表情圖轉成可分享的拉霸循環影片。
 
