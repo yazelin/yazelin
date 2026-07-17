@@ -159,9 +159,9 @@ All playable in the browser. 全部可直接在瀏覽器體驗。
 
 ## Blog
 
-200+ technical notes on industrial automation, AI development, system integration, agent workflows, and product experiments. Email subscription available on the site.
+200+ technical notes on industrial automation, AI development, system integration, agent workflows, and product experiments. Leave your email on the site to hear about new tools.
 
-200+ 篇技術筆記，涵蓋工業自動化、AI 開發、系統整合、agent workflow 與產品實驗。站上可訂閱電子報。
+200+ 篇技術筆記，涵蓋工業自動化、AI 開發、系統整合、agent workflow 與產品實驗。站上可留 email，有新作品時通知你。
 
 Read here: [yazelin.github.io](https://yazelin.github.io)
 
